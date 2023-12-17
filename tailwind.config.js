@@ -46,7 +46,7 @@ module.exports = {
         error: withOpacity("--color-error"),
       },
       fontFamily: {
-        sans: ["var(--font-vazir)", ...fontFamily.sans],
+        sans: ["var(--font-poppins)", ...fontFamily.sans],
       },
       container: {
         center: true,
